@@ -1,4 +1,4 @@
-﻿# 🤖 Customer Support Chatbots .
+﻿# 🤖 Customer Support Chatbots 
 
 This repository contains two chatbot implementations developed as part of Task 3 of the Future Interns internship program. Both bots aim to handle customer queries intelligently and efficiently, but differ in architecture and complexity.
 
@@ -84,4 +84,5 @@ GROQ_API_KEY = "your_api_key_here"
 
 
 🔗 [Let's connect on LinkedIn](https://www.linkedin.com/in/sugan2111/)
+
 
